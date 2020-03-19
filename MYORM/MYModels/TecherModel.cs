@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MYModels
 {
-    public class Techer:BaseModel
+    public class TecherModel:BaseModel
     {
 
 

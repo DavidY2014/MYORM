@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLHelper", "SQLHelper\SQLH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYModels", "MYModels\MYModels.csproj", "{D07A4106-1DD3-47B7-911D-DA48C479924D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYORM.Framwork", "MYORM.Framwork\MYORM.Framwork.csproj", "{D2A2C0E0-4E42-42D1-B8BB-70DA9449B80E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A2C0E0-4E42-42D1-B8BB-70DA9449B80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A2C0E0-4E42-42D1-B8BB-70DA9449B80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A2C0E0-4E42-42D1-B8BB-70DA9449B80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A2C0E0-4E42-42D1-B8BB-70DA9449B80E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
