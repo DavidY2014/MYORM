@@ -6,7 +6,7 @@ using MYORM.Framwork.DBFilter;
 using MYORM.Framwork.Mapping;
 
 /// <summary>
-/// ORM 在通用的ado.net上还封装了各种高阶特性，比如映射，缓存，延迟，事务等
+/// ORM 在通用的ado.net上还封装了各种高阶特性，比如映射， 验证，缓存，延迟，事务等
 /// </summary>
 namespace SQLHelper
 {
