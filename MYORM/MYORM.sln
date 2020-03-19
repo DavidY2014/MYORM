@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYORM", "MYORM\MYORM.csproj", "{B83CD86E-269F-4DCB-9F7B-624047F292AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLHelper", "SQLHelper\SQLHelper.csproj", "{44E78DDC-C31A-4802-8802-30C4D0271CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYModels", "MYModels\MYModels.csproj", "{D07A4106-1DD3-47B7-911D-DA48C479924D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83CD86E-269F-4DCB-9F7B-624047F292AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83CD86E-269F-4DCB-9F7B-624047F292AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83CD86E-269F-4DCB-9F7B-624047F292AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83CD86E-269F-4DCB-9F7B-624047F292AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E78DDC-C31A-4802-8802-30C4D0271CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E78DDC-C31A-4802-8802-30C4D0271CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E78DDC-C31A-4802-8802-30C4D0271CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E78DDC-C31A-4802-8802-30C4D0271CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07A4106-1DD3-47B7-911D-DA48C479924D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDF2B0C-F13E-4CBA-8EAA-A3129CBBF987}
+	EndGlobalSection
+EndGlobal

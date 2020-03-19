@@ -3,3 +3,6 @@
 ################################################################################
 
 /MYORM/.vs/MYORM/v16
+/MYORM/MYModels/obj
+/MYORM/MYORM/obj
+/MYORM/SQLHelper/obj
